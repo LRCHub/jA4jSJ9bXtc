@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "碧く、深々と",
+  "base_artist": "藍空と月",
+  "createdAt": "2026-02-07T03:19:44.676982Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "碧く、深々と",
+      "artist": "藍空と月",
+      "has_synced": false,
+      "path": "select/pl_01_碧く、深々と_藍空と月.txt"
+    }
+  ]
+}
